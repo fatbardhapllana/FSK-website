@@ -46,9 +46,9 @@ form button {
 }
 .navbar {
   background-color: rgb(103, 126, 66);
- 
+
 }
-.navbar-brand img {
+.FP-navbar-brand img {
   border-radius: 50%;
 }
 .navbar-nav .nav-link {
@@ -73,7 +73,7 @@ form button {
   font-family: "Roboto", serif;
   font-weight: 700;
   font-style: normal;
- padding: 60px 20px;
+  padding: 60px 20px;
   text-align: center;
   background-color: #ffffff;
 }
@@ -96,12 +96,12 @@ form button {
 }
 
 /*Stilizimi i Stafi.html*/
-.fp-h2 {
+.FP-h2 {
   text-align: center;
   margin-top: 80px;
 }
 
-.fp-personi {
+.FP-personi {
   background-color: rgb(202, 199, 199);
   border: 1px solid #ddd;
   margin-bottom: 30px;
@@ -110,7 +110,7 @@ form button {
   text-align: center;
 }
 
-.fp-personi img {
+.FP-personi img {
   width: 100%;
   height: auto;
   border-radius: 50%;
@@ -119,7 +119,7 @@ form button {
 /*Stilizimi i Pajisjet-Luftarake.html*/
 table {
   width: 80%; 
-   margin: 0 auto;
+  margin: 0 auto;
     border-collapse: collapse; 
     margin-top: 80px;
     margin-bottom: 20px;
@@ -166,7 +166,7 @@ p{
 .carousel-item {
   height: 100%;
 }
-.video-container {
+.FP-video-container {
   width: 100%;
   max-width: 1000px;
   position: relative;
